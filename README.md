@@ -57,6 +57,7 @@ routes/
 
 ### 🚀 Cara Menjalankan Project
 1️⃣ Clone Repository
+
 git clone https://github.com/nadinesptv/crud-makanan-laravel12.git
 cd crud-makanan-laravel12
 
