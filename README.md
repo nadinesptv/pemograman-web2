@@ -34,8 +34,11 @@ Pengguna dapat menghapus data makanan dari database.
 
 ### 📂 Struktur Project
 app/
+
 ├── Http/
+
 │   └── Controllers/
+
 │        └── FoodController.php
 │
 ├── Models/
